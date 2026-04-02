@@ -134,7 +134,7 @@ I built this project to demonstrate **end-to-end mobile development**: state man
 
 ## License & credits
 
-**Built by [Your Name]**
+**Built by Chiotis Alexandros**
 
 Licensed under the MIT License.
 
