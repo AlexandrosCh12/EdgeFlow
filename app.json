@@ -3,7 +3,16 @@
     "name": "EdgeFlow",
     "slug": "edgeflow",
     "scheme": "edgeflow",
-    "version": "1.0.1",
+    "version": "1.0.2",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/de044fbc-7af8-4989-892f-ac7f5278230d"
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
@@ -20,7 +29,7 @@
     },
     "android": {
       "package": "com.alexchiotis.edgeflow",
-      "versionCode": 2,
+      "versionCode": 9,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#0A0A0A"
